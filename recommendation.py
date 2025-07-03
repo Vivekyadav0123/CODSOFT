@@ -60,4 +60,4 @@ while True:
         print("Thank you for using the recommendation system.")
         break
     recommend(user_input)
-    print()  # blank line for better readability
+    print()  
