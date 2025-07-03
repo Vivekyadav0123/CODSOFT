@@ -14,10 +14,10 @@ It can understand and reply to common user inputs like:
 - Telling the meaning of words like “AI” or “Python”
 - Solving basic math like 7 + 4 or 5 * 3
 
- *File*: [smart chatbot.py](smartchatbot.py )
+ *File*: [smart chatbot.py](smart%20chatbot.py )
 
  How to Run:
-python chatbot.py
+python smart chatbot.py
 
 
 The bot runs in the terminal and responds until you type exit or bye.
