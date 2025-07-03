@@ -1,7 +1,7 @@
 import datetime
 import random
 
-#word meanings
+# word meanings
 dictionary = {
     "python": "a programming language.",
     "ai": "simulation of human intelligence.",
