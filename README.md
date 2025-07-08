@@ -64,3 +64,36 @@ python recommendation.py
 
 - Make sure products.csv is placed in the same folder as the Python file.
 
+
+
+Task 4 – Image Captioning
+
+A Python project that generates captions for uploaded images using a pre-trained BLIP transformer model.
+
+It performs the following:
+
+-Lets user upload an image
+
+-Uses a pre-trained transformer to understand the image
+
+-Returns a meaningful natural-language caption
+
+ *File*: [image_captioning.py](image_captioning.py)
+
+How to Run:
+
+python image_captioning.py
+
+- Make sure the following libraries are installed:
+transformers, torch, Pillow, requests
+
+- Note: You can also use Google Colab if you're facing issues with libraries locally.
+
+
+I have successfully completed the *CodSoft AI Internship*.
+
+It was a valuable learning journey that helped me improve my Python skills and gain practical experience.
+
+Thank you *CodSoft* for the opportunity and support.
+
+
